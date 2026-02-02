@@ -1,0 +1,17 @@
+C:\Users\HC_User\Desktop\Task-Management-System\notification-service\src\main\java\com\taskflow\notification_service\config\KafkaConsumerConfig.java
+C:\Users\HC_User\Desktop\Task-Management-System\notification-service\src\main\java\com\taskflow\notification_service\config\WebSocketConfig.java
+C:\Users\HC_User\Desktop\Task-Management-System\notification-service\src\main\java\com\taskflow\notification_service\consumer\TaskAssignmentConsumer.java
+C:\Users\HC_User\Desktop\Task-Management-System\notification-service\src\main\java\com\taskflow\notification_service\controllers\NotificationController.java
+C:\Users\HC_User\Desktop\Task-Management-System\notification-service\src\main\java\com\taskflow\notification_service\dto\NotificationPreferenceResponse.java
+C:\Users\HC_User\Desktop\Task-Management-System\notification-service\src\main\java\com\taskflow\notification_service\dto\TaskAssignedEvent.java
+C:\Users\HC_User\Desktop\Task-Management-System\notification-service\src\main\java\com\taskflow\notification_service\entity\Notification.java
+C:\Users\HC_User\Desktop\Task-Management-System\notification-service\src\main\java\com\taskflow\notification_service\entity\NotificationLog.java
+C:\Users\HC_User\Desktop\Task-Management-System\notification-service\src\main\java\com\taskflow\notification_service\entity\NotificationPreference.java
+C:\Users\HC_User\Desktop\Task-Management-System\notification-service\src\main\java\com\taskflow\notification_service\NotificationServiceApplication.java
+C:\Users\HC_User\Desktop\Task-Management-System\notification-service\src\main\java\com\taskflow\notification_service\repository\NotificationLogRepository.java
+C:\Users\HC_User\Desktop\Task-Management-System\notification-service\src\main\java\com\taskflow\notification_service\repository\NotificationPreferenceRepository.java
+C:\Users\HC_User\Desktop\Task-Management-System\notification-service\src\main\java\com\taskflow\notification_service\repository\NotificationRepository.java
+C:\Users\HC_User\Desktop\Task-Management-System\notification-service\src\main\java\com\taskflow\notification_service\service\EmailService.java
+C:\Users\HC_User\Desktop\Task-Management-System\notification-service\src\main\java\com\taskflow\notification_service\service\impl\EmailServiceImpl.java
+C:\Users\HC_User\Desktop\Task-Management-System\notification-service\src\main\java\com\taskflow\notification_service\service\impl\NotificationServiceImpl.java
+C:\Users\HC_User\Desktop\Task-Management-System\notification-service\src\main\java\com\taskflow\notification_service\service\NotificationService.java
